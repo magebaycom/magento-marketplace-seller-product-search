@@ -1,4 +1,4 @@
-<h1><strong>Magento Marketplace Seller Product Search &nbsp;Plugin</strong></h1>
+<h1><strong>Magento Marketplace Seller Product Search Plugin</strong></h1>
 
 <p>On an e-commerce website there are many products, when customers want to save time and they use the search box to find a particular product but it will be very difficult for the customer if your website Use Magento&#39;s default search engine.</p>
 
