@@ -15,10 +15,12 @@
 	<li>It is very fast and easy to use.</li>
 </ul>
 
-<p><strong>Install<a href="https://www.magebay.com/magento-multi-vendor-marketplace-extension"> Multi Vendor Marketplace</a> to be able to use this plugin</strong></p>
+<p><strong>Related Add-ons:&nbsp;</strong><a href="https://github.com/magebaycom/magento-marketplace-wepay-payment-gateway">Magento Marketplace WePay Payment Gateway</a></p>
 
-<p><em>- Contact </em><em>us:</em><em> info@magebay.com</em></p>
+<p>-----------------------------------------------------------------------------------------------------------------------------------</p>
 
-<p><em>- Website: <a href="https://www.magebay.com/" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">https://www.magebay.com</a></em></p>
+<p>Install&nbsp;<a href="https://www.magebay.com/magento-multi-vendor-marketplace-extension" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">Magebay Magento Multi Vendor Marketplace</a>&nbsp;to be able to use this plugin</p>
 
-<p>&nbsp;</p>
+<p><em>- Contact&nbsp;us:&nbsp;<a href="mailto:info@magebay.com" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">info@magebay.com</a></em></p>
+
+<p><em>- Website:&nbsp;<a href="https://www.magebay.com/" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">https://www.magebay.com</a></em></p>
